@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "fullName": "test user",
+      "email": "test1@gmail.com",
+      "password": "1234",
+      "id": "1"
+    },
+    {
+      "fullName": "test Data",
+      "email": "test@gmail.com",
+      "password": "1234",
+      "id": "2"
+    },
+    {
+      "id": "a16b",
+      "fullName": "Daniel",
+      "email": "daniel@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "4d81",
+      "fullName": "Cielo Jaramillo",
+      "email": "cielojaramillo15@gmail.com",
+      "password": "111"
+    },
+    {
+      "id": "bff0",
+      "fullName": "Javier Hernandez",
+      "email": "javierhernandez@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "8a65",
+      "fullName": "Everardo Gudalupe Torres Tovar",
+      "email": "everardot917@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "228e",
+      "fullName": "Everardo Guadalupe Torres Tovar",
+      "email": "everardot915@gmail.com",
+      "password": "12345678"
+    }
+  ]
+}
